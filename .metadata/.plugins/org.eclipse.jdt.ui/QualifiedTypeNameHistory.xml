@@ -28,7 +28,11 @@
 <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
 <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
 <fullyQualifiedTypeName name="SetterInject.Player"/>
+<fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-<fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
+<fullyQualifiedTypeName name="com.xyz.TextEditor"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
 </qualifiedTypeNameHistroy>
